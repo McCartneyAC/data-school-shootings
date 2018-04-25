@@ -23,8 +23,9 @@ Field Number,Field Name,Description,Variable,Definition
 ,,,targeted,Shooter fired weapon purposefully with intended victim(s)
 ,,,unclear,Type of shooting unknown
 19,age_shooter1,Age of first shooter,,
-20,gender_shooter1,Gender of first shooter,a,Asian
-21,race_ethnicity_shooter1,Race or ethnicity of first shooter,ai,American Indian
+20,gender_shooter1,Gender of first shooter,,
+21,race_ethnicity_shooter1,Race or ethnicity of first shooter,a,Asian
+,,,ai,American Indian
 ,,,b,Black
 ,,,h,Hispanic
 ,,,w,White
@@ -33,12 +34,12 @@ Field Number,Field Name,Description,Variable,Definition
 ,,,0,Shooter did not die or shooter status unknown
 24,deceased_notes1,"If first shooter deceased, how first shooter died",,
 25,age_shooter2,Age of second shooter,,
-26,gender_shooter2,Gender of second shooter,a,Asian
-27,race_ethnicity_shooter2,Race or ethnicity of second shooter,ai,American Indian
+26,gender_shooter2,Gender of second shooter,,
+27,race_ethnicity_shooter2,Race or ethnicity of second shooter,a,Asian
+,,,ai,American Indian
 ,,,b,Black
 ,,,h,Hispanic
 ,,,w,White
-,,,,
 28,shooter_relationship2,Second shooter's relationship to school,,
 29,shooter_deceased2,Flag indicating whether second shooter died in shooting,1,Shooter died in shooting
 ,,,0,Shooter did not die or shooter status unknown
