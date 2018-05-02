@@ -1,0 +1,1 @@
+These files exist to facilitate a literature review on effects of and school programming surrounding community trauma. What happens to kids when they return to school after conflict, disaster, or emergency?
